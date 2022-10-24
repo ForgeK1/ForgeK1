@@ -1,0 +1,4 @@
+- Hello 👋, I’m @ForgeK1 or also known as Keyvan
+- I’m interested in continueing to learn more about my major in Computer Science as a sophmore
+- I’m currently learning Intro to Programming for Java and finishing up my personal game project in Unity that will be uploaded to steam soon 🎮
+- I’m looking to collaborate with others on my first internship job opportunity and you can reach me through my email arasanjkk@gmail.com 👍
