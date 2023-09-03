@@ -1,9 +1,7 @@
-- Hello! I’m @ForgeK1 or also known as Keyvan M Kani 👋
+- Hello! I am Keyvan M Kani (a.k.a @ForgeK1) 👋
 
-- I’m interested in continueing to learn more about my major in Computer Science as a sophmore 🖥️
+- I am a proud Cal State LA junior student who aims to become a Software Developer and a professional Video Game Programmer! Achieving great academic success, building meaningful connections with others, and being very disciplined takes me one step closer to these goals. 
 
-- I am also one of the leader in the Association for Computing Machinery (ACM) at CSULA that is leading the innovation committee to design a new official app to branch off from the ACM CSULA website 📱
+- My mission is to revolutionize the Software Application Industry and the Video Game World by consistently striving to develop impactful applications that bring value to both myself and others. With unwavering dedication, I am committed to leveraging my skills to create innovative solutions that make a real difference in people's lives.
 
-- I’m currently learning Intro to Programming for Java and finishing up my personal game project in Unity called "CUBEMATRIX" that will be uploaded to steam soon 🎮
-
-- All in all, I’m looking to collaborate with others on my first internship job opportunity and you can reach me through my email arasanjkk@gmail.com! 👍
+- If you have any questions about my GitHub or any other reasons, you can reach me through my email arasanjkk@gmail.com! 🖥️
