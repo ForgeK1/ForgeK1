@@ -1,4 +1,4 @@
-- Hello! My name is Keyvan M. Kani (a.k.a @ForgeK1) 👋
+- Hello! My name is Keyvan M. Kani 👋
 
 - I am a proud California State University Los Angeles Junior year student who aims to become a Software Developer and a professional Video Game Programmer! Achieving great academic success, building meaningful connections with others, and being very disciplined take me one step closer to these goals. 
 
